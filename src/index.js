@@ -6,6 +6,8 @@ import YTSearch from 'youtube-api-search';
 import registerServiceWorker from './registerServiceWorker';
 import VideoList from "./components/video_list";
 import VideoDetail from "./components/video_detail";
+import 'bootstrap/dist/css/bootstrap.min.css'; // import Bootstrap CSS library
+import "./index.css"; // in addition, import our own CSS 
 
 const API_KEY = 'AIzaSyBqiPN9f0LoYUfEFf8DxwMhb2sF-ad_3-I';
 
@@ -25,13 +27,14 @@ class App extends Component {
         return (
             <div>
                 <SearchBar />
-                 <VideoDetail video={this.state.videos[0]} />
+                <div className="row">
+                <VideoDetail video={this.state.videos[0]} />
                 <VideoList videos={this.state.videos} />
+                </div>
             </div>
         );
     }
 }
-
 
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
