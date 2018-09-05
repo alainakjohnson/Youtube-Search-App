@@ -1,0 +1,77 @@
+commit 5198a4203b753ef98102ad7d68ada96af4445287
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Wed Sep 5 07:50:07 2018 +0000
+
+    finished tutorials
+
+commit 84ac6a46cecbd772f5e3a12e8025b1823e71718d
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Wed Sep 5 07:46:25 2018 +0000
+
+    2.7.2 complete
+
+commit 0af5ef3e90e435cfb51e2c241bb156408e595079
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Wed Sep 5 07:30:04 2018 +0000
+
+    completed video selection
+
+commit 567423fab81faa4aa53a9bcb6a932b01bd91cbea
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Wed Sep 5 06:59:00 2018 +0000
+
+    completed youtube search 2 - fixed layout
+
+commit 780ec2e3d2181eb1b2a5bbb20d52fa8e954f4dbd
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Wed Sep 5 06:57:50 2018 +0000
+
+    completed youtube search 2.
+
+commit 0abeff707e7080417d780201bb6bbbd84c075365
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Tue Sep 4 16:11:30 2018 +0000
+
+    installed bootstrap
+
+commit 8fd1541d4d135484ce7f3242af10dfdc6547c1b1
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Tue Sep 4 15:40:46 2018 +0000
+
+    fixed videos, complete and working up through 2.5
+
+commit 035d5c13d49964e0f3e3d527b5b170d997c19892
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Tue Sep 4 15:06:18 2018 +0000
+
+    videos not showing up, need to fix.
+
+commit fd4c512a734ccb09ad9ce5be0b101e0b7ea56aba
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Tue Sep 4 14:34:09 2018 +0000
+
+    finished youtube 1
+
+commit d2fa5789655bbae27bc2e9cc8338f36491952264
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Thu Aug 30 15:15:00 2018 +0000
+
+    completed 2.3
+
+commit 7df6217107c0ee09e453f804deb8da792be277c1
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Thu Aug 30 14:27:22 2018 +0000
+
+    completed search bar 2.2
+
+commit 23fa06682995a75c9f7782ecef5ca2e99c7e542a
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Thu Aug 30 14:04:54 2018 +0000
+
+    completed step 1
+
+commit bf1c844b1f7ba9eca4f2041c26de63cafa0e08bd
+Author: alainakjohnson <akjohnson@valdosta.edu>
+Date:   Thu Aug 30 13:56:59 2018 +0000
+
+    created a new react app
